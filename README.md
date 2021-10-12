@@ -19,5 +19,5 @@ Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/akiwidev "LinkedI
 
 ### The tech and tools I want to, or am currently learning:
 <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />
-<img align="left" alt="Java" width="26px" src="https://www.kindpng.com/picc/m/198-1984828_java-icon-transparent-hd-png-download.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/5433/premium/5433712.png?token=exp=1634024109~hmac=35ddc5778db4f220654dc04a836266fe" />
 <br/>
