@@ -2,7 +2,7 @@
 
 I'm a full-stack developer who moved from New Zealand to Japan in 2016. In the five years I've been here, I've passed the JLPT N2, visited 39 of Japan's 47 prefectures, and built some cool projects I'm passionate about! 
 
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/akiwidev "LinkedIn"), or send me an email at: akiwidev@gmail.com
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akiwidev "LinkedIn"), or send me an email at: akiwidev@gmail.com
 
 ### The tech and tools I use:
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
