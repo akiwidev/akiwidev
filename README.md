@@ -4,7 +4,7 @@ I'm a full-stack developer who moved from New Zealand to Japan in 2016. In the f
 
 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/akiwidev "LinkedIn"), or send me an email at: akiwidev@gmail.com
 
-### The tech and tools I currently use:
+### The tech and tools I use:
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="Ruby-on-Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 <img align="left" alt="Javascript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
@@ -15,9 +15,10 @@ Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/akiwidev "LinkedI
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="VS Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
 <br/>
 
-### The tech and tools I want to learn, or am currently learning:
+### The tech and tools I am currently learning:
 <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" />
