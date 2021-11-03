@@ -21,4 +21,5 @@ Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/akiwidev "LinkedI
 <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" />
 <br/>
