@@ -18,7 +18,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akiwidev 
 <img align="left" alt="VS Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
 <br/>
 
-### The tech and tools I am currently learning:
+### The tech and tools I'm currently learning:
 <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" />
