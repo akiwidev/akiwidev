@@ -1,4 +1,4 @@
-# Hi there! I'm Cheri 👋👩‍💻
+# Kia Ora! I'm Cheri 👋👩‍💻
 
 I'm a full-stack developer who moved from New Zealand to Japan in 2016. In the five years I've been here, I've passed the JLPT N2, visited 39 of Japan's 47 prefectures, and built some cool projects I'm passionate about! 
 
