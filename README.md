@@ -24,4 +24,5 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akiwidev 
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" />
 <img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/graphql_playground_macos_bigsur_icon_190105.png" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/graphql_playground_macos_bigsur_icon_190105.png" />
 <br/>
