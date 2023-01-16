@@ -4,3 +4,16 @@ I'm a full-stack developer who moved from New Zealand to Japan in 2016. For five
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akiwidev "LinkedIn"), or send me an email at: akiwidev@gmail.com
 
+**Technical Skills**
+
+Languages:
+TypeScript, Javascript, HTML, SCSS, CSS, Java, GraphQL
+
+Frameworks:
+React, Next.JS, Spring, TailwindCSS
+
+Databases:
+MongoDB
+
+Tools:
+Gitlab, Slack, Confluence, Notion, Zeplin, MongoDB Compass
